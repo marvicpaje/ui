@@ -28,6 +28,17 @@
   color: #61dafb;
 }
 
+.menuList {
+  float: left;
+  border-right-style: dotted;
+  padding: 5px;
+}
+
+.menuItem {
+  cursor: pointer;
+  text-align: center;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
